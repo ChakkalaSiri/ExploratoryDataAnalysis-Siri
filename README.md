@@ -1,2 +1,4 @@
 # ExploratoryDataAnalysis-Siri
  Repository containing exploratory data analysis (EDA) code and visualizations for insightful data exploration and understanding.
+# Customer Behaviour and Shopping Habits
+Embark on a captivating journey into the realm of data exploration, where every transaction unveils a narrative of consumer habits and preferences. Our exploration of the Customer Behavior and Shopping Habits dataset from Kaggle.com unveils diverse insights, from age distributions to gender preferences and purchase frequencies. This treasure trove of information not only offers statistical revelations but also delves into the underlying motivations shaping consumer decisions. Join us as we unravel the intricacies of modern consumerism, gaining valuable insights that illuminate the complex interplay between customers, products, and brands, ultimately shaping the landscape of retail and marketing strategies.
